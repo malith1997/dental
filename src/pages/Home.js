@@ -1,6 +1,7 @@
 import React from 'react'
 import Nav from '../componets/Nav'
 import Topic from '../componets/HeroTopic'
+import Hero from '../componets/Hero'
 
 export default function Home() {
   return (
@@ -11,6 +12,7 @@ export default function Home() {
       <React.Fragment>
 
       <Nav />
+      <Hero />
       <Topic />
    
     
