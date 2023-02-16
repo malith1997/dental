@@ -4,7 +4,7 @@ import { ButtonGroup,Divider,Stack,Image,Heading,Text,Button,Card, CardHeader, C
 
 export default function Hero() {
   return (
-    <div>
+    <div className='h-screen overflow-hidden relative'>
       <Image className="img1" src={heroImg} alt="hero" />
 
       
