@@ -1,16 +1,21 @@
 import React from 'react'
 import Nav from '../componets/Nav'
 import Topic from '../componets/HeroTopic'
+import Hero from '../componets/Hero'
+import Bganimation from '../componets/Bganimation'
 
 export default function Home() {
   return (
-    <div>
+    <div className='h-screen overflow-hidden relative'>
       
 
 
       <React.Fragment>
-
+      
+      
+      <Bganimation />
       <Nav />
+      <Hero />
       <Topic />
    
     

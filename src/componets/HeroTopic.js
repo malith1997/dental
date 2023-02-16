@@ -6,11 +6,10 @@ function Topic() {
     return(   
         
         <div><section>
-            <h2 className="topic1">Implant<br></br>Dentistry</h2>
-            <Button className="BtnCard">
-            <a className="textcolor">Work With Me</a>
-          </Button>
+            <h2 className="topic1">Implant</h2>
+            <h2 className="topic2">Dentistry</h2>
           </section>
+
         </div>
 
         
