@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dental/static/css/main.435bb988.css",
+    "main.js": "/dental/static/js/main.ac313aa5.js",
+    "static/js/787.c06eb2fc.chunk.js": "/dental/static/js/787.c06eb2fc.chunk.js",
+    "static/media/123.png": "/dental/static/media/123.e6f1819e5bcf9e05df46.png",
+    "static/media/logo.svg": "/dental/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/dental/index.html",
+    "main.435bb988.css.map": "/dental/static/css/main.435bb988.css.map",
+    "main.ac313aa5.js.map": "/dental/static/js/main.ac313aa5.js.map",
+    "787.c06eb2fc.chunk.js.map": "/dental/static/js/787.c06eb2fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.435bb988.css",
+    "static/js/main.ac313aa5.js"
+  ]
+}
