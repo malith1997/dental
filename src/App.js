@@ -9,11 +9,12 @@ import {
   Redirect
 } from "react-router-dom";
 
+
 function App() {
   return (
     <Router>
-
-        
+      <Home />
+       
       
 
     <Routes>
