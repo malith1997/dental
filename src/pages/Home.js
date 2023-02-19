@@ -3,6 +3,7 @@ import Nav from '../componets/Nav'
 import Topic from '../componets/HeroTopic'
 import Hero from '../componets/Hero'
 import Bganimation from '../componets/Bganimation'
+import NavBar from '../componets/NavBar'
 
 export default function Home() {
   return (
@@ -13,10 +14,14 @@ export default function Home() {
       <React.Fragment>
       
       
-      <Bganimation />
-      <Nav />
+      
+      {/* <Nav />
       <Hero />
-      <Topic />
+      <Topic /> */}
+      
+      <Bganimation />
+      <NavBar />
+      
    
     
       
