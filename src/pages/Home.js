@@ -4,6 +4,7 @@ import Topic from '../componets/HeroTopic'
 import Hero from '../componets/Hero'
 import Bganimation from '../componets/Bganimation'
 import NavBar from '../componets/NavBar'
+import Bottomgrid from '../componets/Bottomgrid'
 
 export default function Home() {
   return (
@@ -16,11 +17,13 @@ export default function Home() {
       
       
       {/* <Nav />
-      <Hero />
+      
       <Topic /> */}
       
       <Bganimation />
       <NavBar />
+      <Bottomgrid />
+      <Hero />
       
    
     

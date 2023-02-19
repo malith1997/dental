@@ -23,6 +23,7 @@ const Bganimation =() =>{
 
             </motion.div>
 
+
             <motion.div 
              intitial={{
                 width:0
@@ -40,9 +41,10 @@ const Bganimation =() =>{
                 delay:0.7,
             }}
 
-            className='bg-gray-800 boder-t-2 boder-gray-600 h-[1vh] z-20 absolute left-0 bottom-0'>
+            className='bg-gray-800 boder-t-2 boder-gray-600 h-[10vh] z-20 absolute left-0 bottom-0'>
 
             </motion.div>
+
 
             <motion.div
              initial={{
@@ -64,6 +66,7 @@ const Bganimation =() =>{
             className='bg-gray-800 h-[180vh] w-[60vw] z-10 absolute -left-[10vw] -top-[70vh]'>
              
             </motion.div>
+
 
 
 
